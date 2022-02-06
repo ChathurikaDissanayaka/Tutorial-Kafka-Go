@@ -28,6 +28,6 @@ Event Body:<br>
 
 Links:
 
-[goavro library](github.com/linkedin/goavro)
+- [goavro library](github.com/linkedin/goavro)
 
-[Writing and Testing an Event Sourcing Microservice with Kafka and Go](https://semaphoreci.com/community/tutorials/writing-and-testing-an-event-sourcing-microservice-with-kafka-and-go)
+- [Writing and Testing an Event Sourcing Microservice with Kafka and Go](https://semaphoreci.com/community/tutorials/writing-and-testing-an-event-sourcing-microservice-with-kafka-and-go)
