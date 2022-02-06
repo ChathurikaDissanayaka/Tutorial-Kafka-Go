@@ -1,5 +1,4 @@
-# Tutorial-Kafka-Go
-## Task:
+# Task:
 
 - Write a consumer in Golang which consumes events from a topic called location indefinitely.
 
